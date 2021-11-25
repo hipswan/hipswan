@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Atul
 
+![github-follow](https://img.shields.io/github/followers/hipswan?style=social)
+![twitter-follow](https://img.shields.io/twitter/follow/atulsingh158?style=social)
 <!--
 **hipswan/hipswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
