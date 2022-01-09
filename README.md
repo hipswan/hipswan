@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Atul
 
-![github-follow](https://img.shields.io/github/followers/hipswan?style=social)
-![twitter-follow](https://img.shields.io/twitter/follow/atulsingh158?style=social)
+[![github-follow](https://img.shields.io/github/followers/hipswan?style=social)](https%3A%2F%2Fgithub.com%2Fhipswan)
+[![twitter-follow](https://img.shields.io/twitter/follow/atulsingh158?style=social)](https://twitter.com/intent/follow?screen_name=atulsingh158)
 
 ---
 # 👩🏼‍🎨 Skills
